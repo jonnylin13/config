@@ -1,0 +1,19 @@
+{
+    "files.watcherExclude": {
+        "**/.bloop": true,
+        "**/.metals": true,
+        "**/.ammonite": true
+    },
+    "window.zoomLevel": 0,
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "files.associations": {
+        "*.ejs": "html"
+    },
+    "emmet.includeLanguages": {
+        "ejs": "html"
+    },
+    "html.validate.scripts": false,
+    "git.ignoreMissingGitWarning": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.tabSize": 2
+}
